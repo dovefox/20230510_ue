@@ -1,0 +1,7 @@
+git init
+git add .
+pause
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dovefox/20230510_ue.git
+git push -u origin main
